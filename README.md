@@ -3,6 +3,8 @@
 
 The purpose of this Excel sheet is to plot your courses on a timeline. This would make it clearer for you to see how many courses are running in parallel, or occurring at a particular time in the future. I have found this tool very useful while taking several Online courses on Coursera. It helped me estimate the work load and plan when to take the courses I am targeting. The sheet is tuned to Coursera courses but you can generalize it other courses and projects.
 
+The sheet file is called `Courses Schedule.xlsx` and can be found in this repository's main directory. It was created on Microsoft Excel 2010. 
+
 ![Snapshot of the timeline sheet](https://github.com/alkashef/coursestimeline/raw/master/Snapshot.png)
 
 ## Elements of the Sheet
