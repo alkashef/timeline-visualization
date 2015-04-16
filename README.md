@@ -40,7 +40,7 @@ You may simple use this sheet as is, or modify it. Here is some suggestions for 
 ## Future work
 
 - Let the horizontal axis minimum and maximum values automatically adjust themselves to accommodate the data entered in the table.
-- Out this sheet on Google Sheets, and make it public, so that all Coursera students can add to it.
+- Put this sheet on Google Sheets, and make it public, so that all Coursera students can add to it.
 - Let the width of the horizontal bar reflect the course work load.
 - Automatically fill-in all Coursera courses from their website using a script.
 - Adapt this sheet to other MOOCs, e.g. edx.org.
